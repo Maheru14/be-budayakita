@@ -115,8 +115,7 @@
 
 ```json
 {
-    "email": string,
-    "password": string
+    "file_name": string,
 }
 ```
 
@@ -124,8 +123,9 @@
 
 ```json
 {
-    "message": "Login berhasil",
-    "token": string
+    "description": string,
+    "image_url": string,
+    "label": string
 }
 ```
 
