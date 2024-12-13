@@ -107,7 +107,7 @@
 }
 ```
 
-### 5. **login**
+### 5. **details**
 
 **URL:** `GET /details`  
 **Endpoint:** [https://be-budaya-service-592544960467.asia-southeast2.run.app/details?file_name=[file_name]](https://be-budaya-service-592544960467.asia-southeast2.run.app/details?file_name=[file_name])  
